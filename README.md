@@ -1,6 +1,13 @@
-# 👨‍🔬 Milla Martins | Sr. Martin
+<h1 align="center">👩🏽‍🔬 Milla Martins | Sr. Martin</h1>
 
-🚀 Cientista em formação | Esrudante de Física | Desenvolvedor
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
+</p>
+
+<p align="center">
+Cientista em formação • Física • Programação • Educação Científica • não duvidar do cauan • 
+</p>
+
 
 Sou apaixonado por **ciência,dormir, tecnologia e educação**.  
 Trabalho desenvolvendo projetos que conectam **programação, física e visualização científica**, buscando transformar conceitos complexos em experiências visuais e interativas.
