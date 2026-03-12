@@ -1,11 +1,13 @@
-<h1 align="center">👩🏽‍🔬 Milla Martins | Sr. Martin</h1>
+
+<h1 align="center">🌸👩🏽‍🔬 Milla Martins</h1>
+<h3 align="center">Coffee with Science ☕💗</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
 </p>
 
 <p align="center">
-Cientista em formação • Física • Programação • Educação Científica • não duvidar do cauan • 
+💗 Física • Programação • Ciência • Educação • não duvidar do cauan
 </p>
 
 
@@ -29,23 +31,27 @@ Meu foco está em **simulações científicas, ensino de física, não duvidar d
 
 ## 💻 Tecnologias e Ferramentas
 
-- Python
-- Java
-- JavaScript
-- Unity
-- Blender
-- Git & GitHub
-- Visual Studio Code
+<p>
+
+<img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white">
+
+<img src="https://img.shields.io/badge/Unity-ff69b4?style=for-the-badge&logo=unity&logoColor=white">
+
+<img src="https://img.shields.io/badge/Blender-ff69b4?style=for-the-badge&logo=blender&logoColor=white">
+
+</p>
 
 ---
 
 ## 🧪 Projetos Científicos
-
-📌 Desenvolvimento de **simulações físicas interativas**  
-📌 Visualização de **sistemas de partículas**  
-📌 Modelagem de **átomos e estruturas moleculares**  
-📌 Aplicações educacionais com **Realidade Aumentada**
-
+🌸 Simulações de Física  
+🌸 Visualização de partículas  
+🌸 Modelagem de átomos  
+🌸 Aplicações educacionais  
 ---
 
 ## 🎓 Ensino e Educação
