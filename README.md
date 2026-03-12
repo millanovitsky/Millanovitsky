@@ -3,8 +3,9 @@
 <h3 align="center">Coffee with Science ☕💗</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260">
 </p>
+
 
 <p align="center">
 💗 Física • Programação • Ciência • Educação • não duvidar do cauan
