@@ -1,11 +1,11 @@
 # 👨‍🔬 Milla Martins | Sr. Martin
 
-🚀 Cientista em formação | Professor de Física | Desenvolvedor
+🚀 Cientista em formação | Esrudante de Física | Desenvolvedor
 
-Sou apaixonado por **ciência, tecnologia e educação**.  
+Sou apaixonado por **ciência,dormir, tecnologia e educação**.  
 Trabalho desenvolvendo projetos que conectam **programação, física e visualização científica**, buscando transformar conceitos complexos em experiências visuais e interativas.
 
-Meu foco está em **simulações científicas, ensino de física, realidade aumentada e computação aplicada à ciência**.
+Meu foco está em **simulações científicas, ensino de física, não duvidar do Cauan, realidade aumentada e computação aplicada à ciência**.
 
 ---
 
@@ -56,9 +56,9 @@ Meu objetivo é **aproximar ciência e tecnologia da educação básica**, torna
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Millanovitsky&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Millanovitsky&layout=compact&theme=tokyonight)
 
 ---
 
