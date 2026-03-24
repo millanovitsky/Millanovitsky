@@ -8,7 +8,7 @@
 
 
 <p align="center">
-💙 Física • Programação • Ciência • Educação
+Física • Programação • Ciência • Educação
 </p>
 
 
