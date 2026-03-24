@@ -68,14 +68,6 @@ Meu objetivo é **aproximar ciência e tecnologia da educação básica**, torna
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Millanovitsky&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Millanovitsky&layout=compact&theme=tokyonight)
-
----
-
 ## 🌎 Conecte-se comigo
 
 📧 Email: camilacarvalho1488@gmail.com  
