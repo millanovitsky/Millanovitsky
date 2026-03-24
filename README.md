@@ -1,6 +1,6 @@
 
-<h1 align="center">🌸👩🏽‍🔬 Milla Martins</h1>
-<h3 align="center">Coffee with Science ☕💗</h3>
+<h1 align="center">💙👩🏽‍🔬 Milla Martins</h1>
+<h3 align="center">Coffee with Science ☕💙</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260">
@@ -8,14 +8,14 @@
 
 
 <p align="center">
-💗 Física • Programação • Ciência • Educação • não duvidar do cauan
+💙 Física • Programação • Ciência • Educação
 </p>
 
 
 Sou apaixonado por **ciência,dormir, tecnologia e educação**.  
 Trabalho desenvolvendo projetos que conectam **programação, física e visualização científica**, buscando transformar conceitos complexos em experiências visuais e interativas.
 
-Meu foco está em **simulações científicas, ensino de física, não duvidar do Cauan, realidade aumentada e computação aplicada à ciência**.
+Meu foco está em **simulações científicas, ensino de física, realidade aumentada e computação aplicada à ciência**.
 
 ---
 
@@ -49,10 +49,10 @@ Meu foco está em **simulações científicas, ensino de física, não duvidar d
 ---
 
 ## 🧪 Projetos Científicos
-🌸 Simulações de Física  
-🌸 Visualização de partículas  
-🌸 Modelagem de átomos  
-🌸 Aplicações educacionais  
+❄️ Simulações de Física  
+❄️ Visualização de partículas  
+❄️ Modelagem de átomos  
+❄️ Aplicações educacionais  
 ---
 
 ## 🎓 Ensino e Educação
@@ -78,8 +78,7 @@ Meu objetivo é **aproximar ciência e tecnologia da educação básica**, torna
 
 ## 🌎 Conecte-se comigo
 
-📧 Email: seuemail@email.com  
-💼 LinkedIn: (se quiser colocar)  
+📧 Email: camilacarvalho1488@gmail.com  
 📚 Interesses: Ciência, Educação, Tecnologia e Inovação
 
 ---
