@@ -34,15 +34,15 @@ Meu foco está em **simulações científicas, ensino de física, realidade aume
 
 <p>
 
-<img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=blue">
 
-<img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=blue">
 
-<img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=blue">
 
-<img src="https://img.shields.io/badge/Unity-ff69b4?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-ff69b4?style=for-the-badge&logo=unity&logoColor=blue">
 
-<img src="https://img.shields.io/badge/Blender-ff69b4?style=for-the-badge&logo=blender&logoColor=white">
+<img src="https://img.shields.io/badge/Blender-ff69b4?style=for-the-badge&logo=blender&logoColor=blue">
 
 </p>
 
